@@ -1,12 +1,22 @@
-👋 Hi, I’m Ediberto
-👀 I’m interested in software development vacancies
-🌱 I’m currently learning process automation with python
-💞️ I’m looking to collaborate on software projects
-📫 How to reach me edibertosantana18@gmail.com
-😄 Pronouns: he/him
-⚡ Fun fact: When I like, I do weight training
+👋 Hi, I'm **Ediberto**,
+<br>
 
-<!---
-beto891/beto891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Full-Stack Developer passionate about transforming complex logic into fluid interfaces and robust systems. Currently, I am studying Systems Analysis and Development (ADS) and focused on creating scalable solutions and high-quality software architecture.
+<br>
+
+**Skills** 
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,bootstrap,php,py,vue,git,flask,postgres,postman,redis,selenium,vite,sqlite&perline=8)](https://skillicons.dev)
+
+**IDEs**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,pycharm)](https://skillicons.dev)
+<br>
+
+**Operating Systems**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+<br>
+👀 I’m interested in software development vacancies
+<br>
+📫 How to reach me edibertosantana18@gmail.com
