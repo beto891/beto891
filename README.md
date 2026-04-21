@@ -1,7 +1,7 @@
 👋 Hi, I'm **Ediberto**,
 <br>
 
-A Full-Stack Developer passionate about transforming complex logic into fluid interfaces and robust systems. Currently, I am studying Systems Analysis and Development (ADS) and focused on creating scalable solutions and high-quality software architecture.
+Data Analyst & Automation Enthusiast. Currently studying Systems Analysis and Development (ADS). Passionate about data architecture, ETL processes, and transforming complex datasets into scalable automated insights.
 <br>
 
 **Skills** 
