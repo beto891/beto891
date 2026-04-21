@@ -1,7 +1,7 @@
 👋 Hi, I'm **Ediberto**,
 <br>
 
-Data Analyst & Automation Enthusiast. Currently studying Systems Analysis and Development (ADS). Passionate about data architecture, ETL processes, and transforming complex datasets into scalable automated insights.
+Data Analysis and Systems Automation. Graduating in Data Analysis with a focus on data architecture and ETL processes. Experience in transforming complex data and developing web scraping tools for automating information collection and processing.
 <br>
 
 **Skills** 
@@ -16,7 +16,5 @@ Data Analyst & Automation Enthusiast. Currently studying Systems Analysis and De
 **Operating Systems**
 <br>
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-<br>
-👀 I’m interested in software development vacancies
 <br>
 📫 How to reach me edibertosantana18@gmail.com
